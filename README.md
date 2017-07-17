@@ -8,7 +8,7 @@ Technical
 - Clean Coder
 - Clean Architecture
 - Design Patterns: Elements of Reusable Object-Oriented Software
-- [The Algorithm Design Manual]http://www.algorist.com/)
+- [The Algorithm Design Manual](http://www.algorist.com/)
 - The Little Schemer
 - The Little Prover
 - The Seasoned Schemer
@@ -51,8 +51,8 @@ Fun
 - In the Beginning was the Command Line
 - [A Pattern Language](http://library.uniteddiversity.coop/Ecological_Building/A_Pattern_Language.pdf)
 - [The Timeless Way of Building](http://library.uniteddiversity.coop/Ecological_Building/The_Timeless_Way_of_Building_Complete.pdf)
-- Rise of the Robots: Technology and the Threat of a Jobless Future
-- Race Against the Machine: How the Digital Revolution is Accelerating Innovation, Driving Productivity, and Irreversibly Transforming Employment and the Economy
+- Rise of the Robots
+- Race Against the Machine
 - Simulacra and Simulation
 - 20,000 Leagues Under the Sea
 - Sophie's World: A Novel about the History of Philosophy
