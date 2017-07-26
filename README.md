@@ -1,24 +1,16 @@
 Technical
 ------------------------------------
 - [You Don’t Know JavaScript](https://github.com/getify/You-Dont-Know-JS)
-- AWS System Administration
-- [Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman](http://chimera.labs.oreilly.com/books/1234000001813/index.html)
+- [Apprenticeship Patterns](http://chimera.labs.oreilly.com/books/1234000001813/index.html)
 - The pragmatic programmer
 - Clean Code
 - Clean Coder
 - Clean Architecture
 - Design Patterns: Elements of Reusable Object-Oriented Software
 - [The Algorithm Design Manual](http://www.algorist.com/)
-- The Little Schemer
-- The Little Prover
-- The Seasoned Schemer
-- The Reasoned Schemer
-- Black Hat Python
 - [A Pattern Language for Study Groups](http://www.inquisitivechap.com/wp-content/uploads/2011/03/khdraft.pdf)
-- Coders at Work: Reflections on the Craft of Programming
-- Founders at Work: Stories of Startups' Early Days
-- The Five Dysfunctions of a Team: A Leadership Fable 
-- [Architectural Styles and the Design of Network-based Software Architecture. Fielding](http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)
+- AWS System Administration
+- [Architectural Styles and the Design of Network-based Software Architecture](http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)
 - A cookbook for using the model-view controller user interface paradigm in Smalltalk-80
 - [Object Oriented Software Construction](https://sophia.javeriana.edu.co/~cbustaca/docencia/POO-2016-01/documentos/Object%20Oriented%20Software%20Construction-Meyer.pdf)
 - [Refactoring to Patterns](http://study.5ecloud.net/CourseData/113012/1548/TeachDataDown/_2Refactoring%20to%20Patterns.pdf)
@@ -32,7 +24,15 @@ Technical
 - ["A Relational Model for Data for Large Shared Data Banks" Codd](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.98.5286&rep=rep1&type=pdf)
 - "SEQUEL: A Structured English Query Language" Donald Chamberlin, Raymond Boyce
 - [The 1995 SQL Reunion: People, Projects, and Politics](http://www.scs.stanford.edu/~dbg/readings/SRC-1997-018.pdf)
- - "Correctness Concerns and, Among Other Things, Why They Are Resented" Edsger Dijkstra
+- "Correctness Concerns and, Among Other Things, Why They Are Resented" Edsger Dijkstra
+- Coders at Work: Reflections on the Craft of Programming
+- Founders at Work: Stories of Startups' Early Days
+- The Five Dysfunctions of a Team: A Leadership Fable 
+- The Little Schemer
+- The Little Prover
+- The Seasoned Schemer
+- The Reasoned Schemer
+- Black Hat Python
 
 Math
 --------------------------------------
