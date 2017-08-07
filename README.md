@@ -3,18 +3,16 @@ Completed
 - [You Don’t Know JavaScript](https://github.com/getify/You-Dont-Know-JS)
 - [Apprenticeship Patterns](http://chimera.labs.oreilly.com/books/1234000001813/index.html)
 - [Architectural Styles and the Design of Network-based Software Architecture](http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)
-- Math and Physics for Game Programmers
+- Clean Coder
 
 
 In progress
 --------------------------------------
 - The Pragmatic Programmer
 - Clean Code
-- Clean Coder
 - Clean Architecture
 - Design Patterns: Elements of Reusable Object-Oriented Software
 - [A Pattern Language for Study Groups](http://www.inquisitivechap.com/wp-content/uploads/2011/03/khdraft.pdf)
-- AWS System Administration
 - A cookbook for using the model-view controller user interface paradigm in Smalltalk-80
 - [Object Oriented Software Construction](https://sophia.javeriana.edu.co/~cbustaca/docencia/POO-2016-01/documentos/Object%20Oriented%20Software%20Construction-Meyer.pdf)
 - Coders at Work: Reflections on the Craft of Programming
@@ -23,6 +21,8 @@ In progress
 
 Backlog
 --------------------------------------------------
+- AWS System Administration
+- Math and Physics for Game Programmers
 - [The Algorithm Design Manual](http://www.algorist.com/)
 - [Refactoring to Patterns](http://study.5ecloud.net/CourseData/113012/1548/TeachDataDown/_2Refactoring%20to%20Patterns.pdf)
 - [Programming Pearls](http://www.littledumbdoctor.com/index_files/Interview_Programming_pearls.pdf)
