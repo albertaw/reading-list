@@ -3,7 +3,7 @@ Completed
 - [You Don’t Know JavaScript](https://github.com/getify/You-Dont-Know-JS)
 - [Apprenticeship Patterns](http://chimera.labs.oreilly.com/books/1234000001813/index.html)
 - [Architectural Styles and the Design of Network-based Software Architecture](http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)
-- Clean Coder
+- [Clean Coder](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)
 
 
 In progress
