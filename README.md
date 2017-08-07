@@ -3,14 +3,14 @@ Completed
 - [You Don’t Know JavaScript](https://github.com/getify/You-Dont-Know-JS)
 - [Apprenticeship Patterns](http://chimera.labs.oreilly.com/books/1234000001813/index.html)
 - [Architectural Styles and the Design of Network-based Software Architecture](http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)
-- [Clean Coder](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)
+- [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)
 
 
 In progress
 --------------------------------------
 - The Pragmatic Programmer
-- Clean Code
-- Clean Architecture
+- Clean Code: A Handbook of Agile Software Craftsmanship
+- Clean Architecture: A Craftsman's Guide to Software Structure and Design
 - Design Patterns: Elements of Reusable Object-Oriented Software
 - [A Pattern Language for Study Groups](http://www.inquisitivechap.com/wp-content/uploads/2011/03/khdraft.pdf)
 - A cookbook for using the model-view controller user interface paradigm in Smalltalk-80
