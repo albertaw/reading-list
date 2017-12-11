@@ -8,17 +8,21 @@ Completed
 
 In progress
 --------------------------------------
-- Coders at Work: Reflections on the Craft of Programming
 - The Startup Checklist
+- Gamers at Work: Stories Behind the Games People Play
 - Clean Code: A Handbook of Agile Software Craftsmanship
-- Math and Physics for Game Programmers
 - Design Patterns: Elements of Reusable Object-Oriented Software
-- A cookbook for using the model-view controller user interface paradigm in Smalltalk-80
+- The Little Schemer
+- The Seasoned Schemer
 
 
 Backlog
 --------------------------------------------------
 - No More Work: Why Full Employment Is a Bad Idea
+- Coders at Work: Reflections on the Craft of Programming
+- Founders at Work: Stories of Startups' Early Days
+- Math and Physics for Game Programmers
+- A cookbook for using the model-view controller user interface paradigm in Smalltalk-80
 - The Pragmatic Programmer
 - [The Algorithm Design Manual](http://www.algorist.com/)
 - AWS System Administration
@@ -40,7 +44,6 @@ Backlog
 - [Object Oriented Software Construction](https://sophia.javeriana.edu.co/~cbustaca/docencia/POO-2016-01/documentos/Object%20Oriented%20Software%20Construction-Meyer.pdf)
 - [The Programmer as Navigator, Charles Bachman](http://delivery.acm.org/10.1145/370000/362534/a1973-bachman.pdf?ip=71.56.46.170&id=362534&acc=OPEN&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E6D218144511F3437&CFID=785407200&CFTOKEN=32071421&__acm__=1500081866_efdd19c9645ab43e9c8bd81d3c48877b)
 - In the Beginning was the Command Line
-- Founders at Work: Stories of Startups' Early Days
 - The Five Dysfunctions of a Team: A Leadership Fable 
 - Artificial Intelligence for Games
 - Essential math for games 
@@ -50,8 +53,6 @@ Backlog
 - Numerical Methods using Matlab
 - A Survey of Modern Algebra
 - The Cryptographic Mathematics of Enigma
-- The Little Schemer
 - The Little Prover
-- The Seasoned Schemer
 - The Reasoned Schemer
 - Black Hat Python
