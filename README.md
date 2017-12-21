@@ -5,6 +5,7 @@ Completed
 - [Architectural Styles and the Design of Network-based Software Architecture](http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)
 - The Clean Coder: A Code of Conduct for Professional Programmers
 - ReWork 
+- The Little Schemer
 
 In progress
 --------------------------------------
@@ -12,12 +13,16 @@ In progress
 - Gamers at Work: Stories Behind the Games People Play
 - Clean Code: A Handbook of Agile Software Craftsmanship
 - Design Patterns: Elements of Reusable Object-Oriented Software
-- The Little Schemer
-- The Seasoned Schemer
+- [Flatland - A Romance of Many Dimensions](https://www.amazon.com/FLATLAND-Romance-Dimensions-Distinguished-Chiron-ebook/dp/B00VBC4SZ4/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=)
 
 
 Backlog
 --------------------------------------------------
+- The Seasoned Schemer
+- Naive Set Theory
+- How to Solve It
+- Introduction to Logic
+- Gödel's Proof
 - No More Work: Why Full Employment Is a Bad Idea
 - Coders at Work: Reflections on the Craft of Programming
 - Founders at Work: Stories of Startups' Early Days
