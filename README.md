@@ -9,6 +9,7 @@ Completed
 
 In progress
 --------------------------------------
+- [Are You Living in a Computer Simulation](https://www.simulation-argument.com/simulation.html)
 - The Startup Checklist
 - Gamers at Work: Stories Behind the Games People Play
 - Clean Code: A Handbook of Agile Software Craftsmanship
