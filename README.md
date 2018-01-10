@@ -9,8 +9,8 @@ Completed
 
 In progress
 --------------------------------------
+- [Computer Systems Established Maintained and Trusted by Mutually Suspicious Groups](https://chaum.com/publications/research_chaum_2.pdf)
 - [Are You Living in a Computer Simulation](https://www.simulation-argument.com/simulation.html)
-- The Startup Checklist
 - Gamers at Work: Stories Behind the Games People Play
 - Clean Code: A Handbook of Agile Software Craftsmanship
 - Design Patterns: Elements of Reusable Object-Oriented Software
@@ -19,6 +19,7 @@ In progress
 
 Backlog
 --------------------------------------------------
+- The Startup Checklist
 - The Seasoned Schemer
 - Naive Set Theory
 - How to Solve It
