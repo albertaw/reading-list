@@ -10,7 +10,6 @@ Completed
 In progress
 --------------------------------------
 - [Computer Systems Established Maintained and Trusted by Mutually Suspicious Groups](https://chaum.com/publications/research_chaum_2.pdf)
-- [Are You Living in a Computer Simulation](https://www.simulation-argument.com/simulation.html)
 - Gamers at Work: Stories Behind the Games People Play
 - Clean Code: A Handbook of Agile Software Craftsmanship
 - Design Patterns: Elements of Reusable Object-Oriented Software
@@ -21,13 +20,15 @@ Backlog
 --------------------------------------------------
 - The Startup Checklist
 - The Seasoned Schemer
+- No More Work: Why Full Employment Is a Bad Idea
+- Coders at Work: Reflections on the Craft of Programming
+- Founders at Work: Stories of Startups' Early Days
+- [Searching for Interstellar Communications](http://www.bigear.org/vol1no1/interste.htm)
+- [Are You Living in a Computer Simulation](https://www.simulation-argument.com/simulation.html)
 - Naive Set Theory
 - How to Solve It
 - Introduction to Logic
 - Gödel's Proof
-- No More Work: Why Full Employment Is a Bad Idea
-- Coders at Work: Reflections on the Craft of Programming
-- Founders at Work: Stories of Startups' Early Days
 - Math and Physics for Game Programmers
 - A cookbook for using the model-view controller user interface paradigm in Smalltalk-80
 - The Pragmatic Programmer
