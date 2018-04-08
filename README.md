@@ -6,6 +6,7 @@ Completed
 - The Clean Coder: A Code of Conduct for Professional Programmers
 - ReWork 
 - The Little Schemer
+- [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
 
 In progress
 --------------------------------------
@@ -21,6 +22,7 @@ Backlog
 - The Startup Checklist
 - The Seasoned Schemer
 - No More Work: Why Full Employment Is a Bad Idea
+- [The Principles of Freedom](http://freedomnation.me/wp-content/uploads/2014/07/Principles_of_Freedom_Proof_Review1.pdf)
 - Coders at Work: Reflections on the Craft of Programming
 - Founders at Work: Stories of Startups' Early Days
 - [Searching for Interstellar Communications](http://www.bigear.org/vol1no1/interste.htm)
